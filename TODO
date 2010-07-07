@@ -1,0 +1,6 @@
+* implement "wait" for down() - how long to wait for a slot before giving up
+  (right now it's nothing - if there's no slot, that's it)
+
+* document methods in Memcached.pm
+
+* testing with competing clients
